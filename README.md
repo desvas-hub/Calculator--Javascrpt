@@ -1,4 +1,5 @@
 # Calculator Web App
+![Calculator Screenshot](screenshots/calculator.png)
 
 A simple calculator web application built using HTML, CSS, JavaScript, Python, and Flask.
 
